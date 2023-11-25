@@ -20,4 +20,4 @@ Para a instalação do Java JDK: https://www.oracle.com/br/java/technologies/dow
 
 --- 
 
-### Executando testesPara executar os testes, clone o código e rode o arquivo *`*TesteObservavel*`*
+### Executando testesPara executar os testes, clone o código e rode o arquivo `TesteObservavel`
