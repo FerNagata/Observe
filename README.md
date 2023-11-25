@@ -1,3 +1,4 @@
+[![Java CI with Maven](https://github.com/FerNagata/Observe/actions/workflows/maven.yml/badge.svg)](https://github.com/FerNagata/Observe/actions/workflows/maven.yml)
 # Exercício Prático de Design Patterns
 
 Nesse exercíos aplicamos o padrão Observer para um aplicativo, onde varias pessoas (observadores) podem se registrar para receber os dados de uma frase. E também foi criado 4 testes para testar os métodos.
