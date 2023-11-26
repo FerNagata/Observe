@@ -15,7 +15,8 @@ Fernanda Nagata Ito <br/>
 Paulo Otavio Luczensky de Souza
 
 ---
-### AmbienteFoi utilizado a IDE IntelliJ IDEA (OBS: Pode usar qualquer IDE).
+### Ambiente
+Foi utilizado a IDE IntelliJ IDEA (OBS: Pode usar qualquer IDE).
 
 Para a instalação do Java JDK: https://www.oracle.com/br/java/technologies/downloads/
 
